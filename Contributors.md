@@ -1574,5 +1574,5 @@ Cody LeRoy
 - [Niek Jacobse](https://github.com/NiekJacobse)
 - [Fazlı Berk Ördek](https://github.com/fazliberkordek)
 - Fubge(https://github.com/Fubge)
-- [wiwat](https://github.com/mostvivat)
+- [vivat](https://github.com/mostvivat)
 - <!-- prettier-ignore-end -->
